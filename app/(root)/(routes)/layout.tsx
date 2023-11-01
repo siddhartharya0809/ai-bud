@@ -1,5 +1,6 @@
 import { Navbar } from "@/components/navbar";
 import { Sidebar } from "@/components/Sidebar";
+
 const RootLayout = ({
   children
 }: {
